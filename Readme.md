@@ -1,0 +1,1 @@
+<h2>Powerful RC monster truck that can survive rough terrain, jumps, crashes, and still perform well in competitions. Instead of buying a ready-made one, I want to learn how real RC systems work by building and upgrading my own car step by step with better suspension, control, and electronics</h2>
