@@ -2,8 +2,8 @@ Category,Part,Specification,Quantity,Estimated Price,Store/Link,Status,Notes,,
 ,,,,,,,,,
 Chassis,Aluminum metal sheet,-,1,Rs. 370,https://amzn.in/d/01x2SsgO,,Strong and lightweight base,,
 Wheel,4 Pcs. set,Off-road Rubber wheel,1,Rs. 1500,MJX Hyper Go 14300D1 Off-Road Tire Wheels (4pcs) – Spare Parts for 1/14 RC Cars 14209 & 14210,,"Suitable for 1/14 scale, good look & High grip",,https://a.co/d/0gAZSxin
-Motor,390 brushed,7.4V,1,Rs.765,9IMOD RC Brushed Motor 370-31T/380-38T/390-28T Waterproof JST/Point Plug Stainless Steel High Torque For 1/18 1/16 RC Crawler - AliExpress 26,,Good Torque,,
-ESC,Brushed,30A,1,Rs. 660,30 A Brushed ESC No Brake | Robu.in,,Matches motor requirement,,
+Motor❌,390 brushed,7.4V,1,Rs.765,9IMOD RC Brushed Motor 370-31T/380-38T/390-28T Waterproof JST/Point Plug Stainless Steel High Torque For 1/18 1/16 RC Crawler - AliExpress 26,,Good Torque,,
+ESC❌,Brushed,30A,1,Rs. 660,30 A Brushed ESC No Brake | Robu.in,,Matches motor requirement,,
 Battery,Lipo battery,2200mah,1,Rs. 1190,Buy Cnhl 2200mah 7.4v 2s 30c (Lipo Battery) - Zbotic,,Gives enough Power/Runtime,,
 Charger,Balance Charger,2 - 3S,1,Rs. 340,https://robu.in/product/b3ac-compact-balance-charger-2s-3s-lipo/,,Suitable for battery,,
 Servo,,,,Rs. 343,Buy TowerPro MG996R Digital High Torque Servo Motor Online at Robu.in,,Needed for Steering,,MG996R 13KG High Torque Digital Continuous Rotation Servo - 360 Degree Metal Gear High Qualityhtml
@@ -19,8 +19,5 @@ Screws,M3 Socket Head,SS304 / Mild Steel / ,Rs. 3.5 * 100,Rs. 350,OnlyScrews,,,,
 Nuts,M3 Nyloc,,Rs.3.2 * 50,Rs. 160,https://onlyscrews.in/products/m3-nyloc-nuts-ss304?_pos=1&_fid=c48e94141&_ss=c,,,,
 Washers,M3,,Rs. 0.8 * 50,Rs. 40,https://onlyscrews.in/products/m3-washer-ss304?_pos=1&_fid=aa3,,,,
 Servo horn,25T Steering Arm,Aluminium,1,Rs. 157,Aluminum 25T Servo Horn Steering Arm – RC Car & Drone Accessory,,Aluminium for durability,,https://robu.in/product/aluminum-25t-servo-horn-steering-arm/?gad_source=1&gad_campaignid=20381096599&gbraid=0AAAAADvLFWdmKtXMeMUY_HmGob5SCpTbv&gclid=CjwKCAjwmozTBhAeEiwAkEGZzpNUEFYIp9cmg15rg_x3pjXcIxNO1vcApD_BBJ0MCsHEspvQadCUaxoC4WAQAvD_BwE
-Heat Shrink Tubing,,8 sizes & 5 Colours,1,Rs. 170,https://amzn.in/d/0hcWbUfG,,Insulates electrical joints,,
-,,,,,,,,,
-Motor + ESC (Combo),Brushless,"60A ESC, 3650 3300KV Motor 2S",1,Rs. 4300,https://ebay.io/m/b7ebQj,,Faster & more efficient,,
-,,,,Rs.,,,,,
-,,,,Rs.,,,,,
+Heat Shrink Tubing,,8 sizes & 5 Colours,1,Rs. 170,https://amzn.in/d/0hcWbUfG,,Insulates electrical joints
+Motor + ESC (Combo),Brushless,"60A ESC, 3650 3300KV Motor 2S",1,Rs. 4300,https://ebay.io/m/b7ebQj,,Faster & more efficient
